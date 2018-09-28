@@ -1,4 +1,11 @@
-# 2018fall
+﻿# 2018fall
+
+課程分組網站：https://mdecp2018.github.io/site-s40523125/content/index.html
+課程簡報：https://mdecp2018.github.io/site-s40523125/reveal/index.html#/
+課程部落格：https://mdecp2018.github.io/site-s40523125/blog/index.html
+
+---
+
 2018 Fall 計算機程式與電腦輔助設計實習課程分組倉儲
 
 http://mdecourse.github.io/2018fall/
